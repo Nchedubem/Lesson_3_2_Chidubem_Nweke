@@ -2,7 +2,7 @@
             <h1>FOOTBALL NEWS</h1><br>
             <div class="shootingstars">
             <div class="shooting-img">
-                <img class="football" src="../images/Football.jpg" alt="football1">
+                <img class="football" src="./images/Football.jpg" alt="football1">
             </div>
             <div class="shooting-text">
                 <h2> NPFL Preview and Predictions: Shooting Stars vs Enyimba</h2>
@@ -12,7 +12,7 @@
                 </p>
             </div>
             <div class="riversunited-img">
-                <img class="Football" src="../images/football5.jpg" alt="Football">
+                <img class="Football" src="./images/football5.jpg" alt="Football">
             </div>     
             <div class="riversunited-text">
                 <h2>NPFL Review: Rivers United Return to Winning Ways as Bendel Stay Unbeaten</h2>  
@@ -22,7 +22,7 @@
             </div>
             <div class="Preview">
                 <div class="Preview-img">
-                    <img class="football" src="../images/football2.jpg" alt="football">
+                    <img class="football" src="./images/football2.jpg" alt="football">
                 </div>
                 <div class="preview-text">
                     <h2>NPFL Preview and Predictions: Nasarawa United vs Bendel Insurance</h2>
@@ -31,7 +31,7 @@
                 </div>
             <div class="nigeria">
                 <div class="nigeria-img">
-                    <img class="Football" src="../images/Team of football.jpg" alt="football">  
+                    <img class="Football" src="./images/Team of football.jpg" alt="football">  
                 </div>  
                 <div class="nigeria-text">
                     <h2>U17 AFCON: Nigeria Play Burkina Faso For a Place in the Semi-Finals</h2>
@@ -41,18 +41,15 @@
         </div>
         <div class="mainright">
             <h2>Taiwo Awoniyi: Five Players the Nigerian Has Outscored in the Premier</h2>
-            <img class="football" src="../images/Taiwo Awoniyi.webp" alt="Taiwo">
+            <img class="football" src="./images/Taiwo Awoniyi.webp" alt="Taiwo">
 
             <h2>Alex Iwobi News: Everton Boss Hails Super Eagles Star</h2>
-             <img class="football" src="../images/Alex.jpg" alt="Football"> 
+             <img class="football" src="./images/Alex.jpg" alt="Football"> 
 
              <h2>Football News Africa: Frank Onyeka Returning to Prominence for Brentford</h2>
-             <img class="football" src="../images/kelechi.jpg" alt="Football">
+             <img class="football" src="./images/kelechi.jpg" alt="Football">
 
              <h2> Kelechi Iheanacho Injury: Will His Absence Make a Difference?</h2>
-             <img class="football" src="../images/Alex.webp" alt="Football">
-
-             <h2>What Next for Dennis and Awoniyi If Nottingham Suffers Relegation</h2>
-             <img class="football" src=".." alt="">
+             <img class="football" src="./images/Alex.webp" alt="Football">
         </div>
 
